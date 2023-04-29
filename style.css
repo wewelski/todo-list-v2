@@ -25,6 +25,10 @@ form button {
   padding: .2rem 1.5rem
 }
 
+form button:hover {
+  cursor: pointer;
+}
+
 ul {
   width: 30ch;
 }
